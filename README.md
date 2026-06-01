@@ -369,6 +369,3 @@ POST /search
 ## 📄 License
 
 This project is developed for educational and research purposes. Modify and extend according to your organizational requirements.
-
-
-Built with AI, Cloud Technologies, Vector Search, and Secure Access Management to simplify digital asset organization and retrieval.
